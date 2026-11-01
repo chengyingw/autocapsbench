@@ -4,7 +4,7 @@ Compiled static distribution of the AutoCapsBench research platform.
 
 This repository contains public website build files, original figure crops with source attribution, and supplementary-video assets. It does not contain source PDFs, credentials, or the private development repository.
 
-Development source revision: `5009c00d6313467d25cdae039e699b4bec71a7f7`.
+Development source revision: `779fc584f9e090b1a2cc263b4b56e9d021698f4b`.
 
 Figure and video rights remain with their respective rightsholders. See [figure sources](figures/SOURCES.md) and [video sources](videos/SOURCES.md); no blanket open-source licence is applied to third-party research media.
 
